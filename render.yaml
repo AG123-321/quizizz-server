@@ -2,7 +2,7 @@ services:
 - type: web
   name: gitpod-openvscode-server-example
   env: docker
-  repo: https://github.com/render-examples/gitpod-openvscode-server-example.git
+  repo: https://github.com/AG123-321/quizizz-server.git
   autoDeploy: false
   disk:
     name: data
